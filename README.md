@@ -4,6 +4,8 @@
 
 This project implements a memory management system for AI agents that allows them to store, retrieve, and organize information in a structured way. The system uses Neo4j as the graph database for semantic relationships and integrates with MemMachine API plugin for enhanced memory operations.
 
+![banner](banner.png)
+
 ## System Architecture
 
 ### Frontend
